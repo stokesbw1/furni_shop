@@ -1,1 +1,1 @@
-# furni_shop1
+# furni_shop
