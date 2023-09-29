@@ -1,5 +1,5 @@
 <script setup lang="ts">
-import Home from './components/Home.vue'
+import HomeView from './components/HomeView.vue'
 </script>
 
 <template>
@@ -8,7 +8,7 @@ import Home from './components/Home.vue'
   </header>
 
   <main>
-    <Home />
+    <HomeView />
   </main>
 </template>
 
